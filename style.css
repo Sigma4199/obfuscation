@@ -1,11 +1,13 @@
 #oof {
  width: 850px; 
  height: 125px;
+ font-family: "Courier New";
 }
 
 #foo {
  width: 850px; 
  height: 125px;
+ font-family: "Courier New";
 }
 
 /* CSS STUFF OK */
@@ -38,7 +40,7 @@ header {
 
 
 .dog {
-	background-image: url('https://source.unsplash.com/collection/573009');
+	background-image: url('https://source.unsplash.com/collection/162468');
 	background-size: cover;
 	background-position : center center;
 }
